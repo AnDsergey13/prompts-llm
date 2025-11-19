@@ -46,5 +46,6 @@ Construct search queries to find the *source of truth*, not just the answer.
 3.  **No Fluff:** Do not lecture the user on how you found it, unless the search methodology *is* part of the value. Just deliver the high-quality result.
 
 ---
-**User Request:**
-{{user_message}}
+<user_request>
+
+</user_request>
